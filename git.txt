@@ -1,3 +1,7 @@
 Inicio Aula Git
 Lucas 
 terceira linha
+
+git status 
+git add .
+git commit -m
